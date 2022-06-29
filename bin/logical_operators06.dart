@@ -8,3 +8,4 @@ Given two integers a, b,  check the following statement "At least one of the num
     Returns:
         bool: answer
 */        
+void main() {}
