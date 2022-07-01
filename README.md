@@ -398,7 +398,7 @@ Output: False
 **Example 1:**
 
 ```dart
-Input: a=75421
+Input: a=12345
 Output: True
 
 ```
@@ -406,7 +406,7 @@ Output: True
 **Example 2:**
 
 ```dart
-Input: a=13763
+Input: a=54647
 Output: False
 
 ```
@@ -422,7 +422,7 @@ Output: False
 
 ```dart
 Input: a=75421
-Output: False
+Output: True
 
 ```
 
@@ -430,7 +430,7 @@ Output: False
 
 ```dart
 Input: a=12347
-Output: True
+Output: False
 
 ```
 
