@@ -439,7 +439,7 @@ Output: False
 
 ## logic19
 
-  Given an integer x, return true if x is palindrome integer.
+  Given a three digit integer x, return true if x is palindrome integer.
   An integer is a palindrome when it reads the same backward as forward.
 
 **Example 1:**
