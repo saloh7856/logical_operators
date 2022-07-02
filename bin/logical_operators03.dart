@@ -10,13 +10,13 @@ Given two integers a, b,  check the following statement "Each of the numbers 'a'
 */
 
 bool func(int a,b){
-    if(a>0 && b>0){
+    if(a<0 && b<0){
         return true;
     }else
     return false;
 }
 void main(){
-    
-    print(func(4,5));
+
+    print(func(-4,-5));
 }
 
