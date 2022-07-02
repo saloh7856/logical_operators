@@ -16,6 +16,7 @@ bool func(int a,b){
     return false;
 }
 void main(){
+    
     print(func(4,5));
 }
 
